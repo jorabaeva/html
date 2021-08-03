@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jypaegul's Personal Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src=".png" alt=" Cholpon profile picture" width="250" height="150"></td>
+            <td><h1>Jypargul Jorobaeva </h1>
+            <p><em>Student of <strong><a href="https://jyldyz.com/"> Academy Jyldyz.</a></strong></em></p>
+            <p>I am a Frontend Web Developer. I ❤love coffee and to sew.</p></td>
+        </tr>
+    </table>
+    <hr>
+    <h3> My favorite books </h3>
+  <ul>
+    <li>48 laws of power-Robert Grin</li>
+    <li> The Intelligent Investor -
+      Benjamin Graham 	</li>
+<li>7 Habits of Highly Effective People - Stephen R. Covey</li>
+<li>Principles - Ray Dalio</li>
+</ul>
+    <hr>
+   
+    <h3>Work Experience</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td> 2008-2010</td>
+      <td> 
+            Assistant 
+            advocate </td>
+       </tr>
+     <tr>
+      <td> 2010-2012</td>
+      <td> System Administrator </td>
+       </tr>
+       <tr>
+            <td> 2012-2020</td>
+            <td> nail studio </td>
+             </tr>
+       <tr>
+      <td> 2021-present</td>
+      <td> 
+            Studying at Jyldyz Academy (web developer) </td>
+
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+
+    <h3>Skills</h3>
+    <table>
+        <tr>
+            <td>HTML</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <td> Web Development </td>
+       <td> ⭐⭐⭐⭐⭐  </td>
+    </tr> 
+    <tr>
+      <td> Photography </td>
+       <td> ⭐⭐⭐ ⭐⭐  </td>
+    </tr>    
+    <tr>
+      <td> Design </td>
+       <td> ⭐⭐⭐⭐    </td>
+    </tr>
+    </table>
+    <hr>
+
+    <a href="hobbies.html">My Hobbies</a><br>
+    <a href="contact-me.html">Contact Me</a>
+</body>
+</html>
